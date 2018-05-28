@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Travel-commons/Travel-commons.iml" filepath="$PROJECT_DIR$/Travel-commons/Travel-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel-manager/Travel-manager.iml" filepath="$PROJECT_DIR$/Travel-manager/Travel-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel-manager/Travel-manager-dao/Travel-manager-dao.iml" filepath="$PROJECT_DIR$/Travel-manager/Travel-manager-dao/Travel-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel-manager/Travel-manager-interface/Travel-manager-interface.iml" filepath="$PROJECT_DIR$/Travel-manager/Travel-manager-interface/Travel-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel-manager/Travel-manager-pojo/Travel-manager-pojo.iml" filepath="$PROJECT_DIR$/Travel-manager/Travel-manager-pojo/Travel-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel-manager/Travel-manager-service/Travel-manager-service.iml" filepath="$PROJECT_DIR$/Travel-manager/Travel-manager-service/Travel-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel-manager/Travel-manager-web/Travel-manager-web.iml" filepath="$PROJECT_DIR$/Travel-manager/Travel-manager-web/Travel-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel-parent/Travel-parent.iml" filepath="$PROJECT_DIR$/Travel-parent/Travel-parent.iml" />
+    </modules>
+  </component>
+</project>
